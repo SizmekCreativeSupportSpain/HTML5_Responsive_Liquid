@@ -3,7 +3,6 @@ var config = {
 	breakPoints: [
 		{"min-width": 1030, "banner": 240},
 		{"min-width": 749, "max-width": 1029, "banner": 240},
-		{"min-width": 500, "max-width": 748, "banner": 240},
 		{"max-width": 499, "banner": 240}
 	]
 };
