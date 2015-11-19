@@ -35,3 +35,5 @@ function onInit(){
 function startAd(){
 	document.getElementById("bannerClickBtn").addEventListener("click", handleClick, false);
 }
+
+window.addEventListener("load", onInit);
