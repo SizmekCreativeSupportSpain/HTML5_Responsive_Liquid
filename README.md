@@ -29,7 +29,7 @@ La funcionalidad responsive del formato no se puede probar en local correctament
 
 Cuando tengas terminada la creatividad, sube la pieza a la plataforma. En este caso, el formato que debes seleccionar en la plataforma es **RESPONSIVE PUSHDOWN**. ¿No tienes claro cómo? Puedes seguir esta pequeña guía [Subir Creatividades Sizmek](http://sizmek.es/wiki/doku.php?id=subir_creatividades_html5).
 
-Cuando hayas hecho esto deberias tener algo como en este ejemplo de PRISA:
+Cuando hayas hecho esto deberías tener algo como en este ejemplo:
 
 ![Responsive Liquid Setup](https://cloud.githubusercontent.com/assets/15161388/11283835/e2a3c1fe-8f06-11e5-9e66-508431a85069.png)
 
